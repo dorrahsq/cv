@@ -1,0 +1,54 @@
+.contener {
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  width: 330px;
+  height: 630px;
+  padding: 0 20px;
+  margin-right: 13px;
+}
+
+.lineunder {
+  border-bottom: 1px solid rgba(128, 128, 128, 0.198);
+  padding: 20px 5px;
+}
+
+img {
+  border-radius: 300px;
+  height: 200px;
+  width: 210px;
+}
+.lastdiv {
+  padding: 5px 9px;
+  font-size: 16px;
+}
+
+.icon {
+  font-size: 17px;
+  color: gray;
+}
+
+.h1header {
+  margin-top: 15px;
+  margin-bottom: 0;
+  color: black;
+}
+.h3header {
+  color: gray;
+  font-size: 21px;
+}
+
+.space {
+  margin-top: 10px;
+}
+
+.bigicon {
+  font-size: 42px;
+  margin: 9px;
+}
+
+.github {
+  color: black;
+}
+.github:hover {
+  color: rgb(59, 108, 128);
+}

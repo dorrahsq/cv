@@ -1,0 +1,21 @@
+.lineunderabout {
+  border-bottom: 0.5px solid rgba(90, 90, 90, 0.157);
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  margin-left: 2px;
+  margin-bottom: 3px;
+  padding: 0;
+  color: gray;
+  font-size: 20px;
+}
+
+.iconabout {
+  margin-right: 17px;
+  font-size: 25px;
+}
+
+.pabout {
+  padding-bottom: 65px;
+}
